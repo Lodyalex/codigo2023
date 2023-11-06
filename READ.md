@@ -30,3 +30,17 @@ git status
 ```
 git add .
 
+* agrega archicos a la pc
+```bash
+git add
+```
+* Crea el registro de los camnios realizados
+```bash
+git commit -m "comentario"
+```
+* Poder ver historial de commits
+```bash
+git log
+```
+
+{} git log retorna un "id" con este id vamos a poder ver el detallle de los cambios que se hicieron en este commit
